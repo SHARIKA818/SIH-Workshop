@@ -18,6 +18,5 @@
 ## 6. Sixth Slide
     ![Screenshot 2024-10-28 094149](https://github.com/user-attachments/assets/7c60cc86-0f06-40e4-9d72-163f9ad9b85f)
     ![Screenshot 2024-10-28 094201](https://github.com/user-attachments/assets/0602fa85-5281-4eb7-80f1-fe2578210593)
-![Screenshot 2024-10-28 094253](https://github.com/user-attachments/assets/53579ebd-5bed-4e11-aad3-b86d9f137dee)
 
 
